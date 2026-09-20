@@ -1,0 +1,9 @@
+pytest
+fastapi
+uvicorn
+httpx
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
